@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;1,200;1,300&display=swap');
+.ap-navbar{
+
+    background-color: rgba(57, 55, 192, 0.55);
+    font-family: 'Poppins';
+}
+
+.ap-fond {
+              
+      
+   background-image: url("../img/fond.jpg");
+   height: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+      
+    
+}
+

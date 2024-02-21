@@ -1,0 +1,11 @@
+
+ .custom-btn {
+    background-color: #fc2600; /* Couleur par défaut */
+    color: #fff; /* Couleur du texte en blanc par défaut */
+  }
+
+  .custom-btn:hover {
+    background-color: #593f8a; /* Couleur rouge au survol */
+    color: #d2e905; /* Couleur du texte en jaune au survol */
+}
+
